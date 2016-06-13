@@ -1,0 +1,48 @@
+#wrapper {
+}
+
+#set-container {
+}
+
+.set-box {
+    margin-top: 20px;
+}
+
+.set-name {
+  margin:0px;
+}
+
+.set-image-box {
+  height: 370px;
+
+  background-color: #1c99e6;
+  background-image: url('../img/diamonds.png');
+  
+  margin:20px 0px 20px 0px;
+  border-radius: 20px;
+  border-style: solid;
+  border-width: 2px;
+  padding: 10px 0px;
+  -webkit-box-shadow: 0px 0px 16px 20px rgba(0,0,0,0.5);
+  -moz-box-shadow: 0px 0px 16px 20px rgba(0,0,0,0.5);
+  box-shadow: 0px 0px 16px 20px rgba(0,0,0,0.5);
+}
+
+.image-box {
+  
+  padding: 5px 0px;
+  border: ridge 5px;
+  height: 255px;
+  -webkit-box-shadow: 1px 33px 52px 11px rgba(0,0,0,0.75);
+  -moz-box-shadow: 1px 33px 52px 11px rgba(0,0,0,0.75);
+  box-shadow: 1px 33px 52px 11px rgba(0,0,0,0.75);
+  text-align: center;
+}
+
+.image-box img {
+  margin:0px 5px;
+  border: solid 2px;
+  height: 235px;
+}
+
+
